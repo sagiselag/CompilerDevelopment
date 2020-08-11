@@ -1,0 +1,10 @@
+Students names:
+1. Omer Pesah
+2. Yossef Hai Gavriel
+3. Sagi Sela
+
+Operating system:
+Windows10 - 64Bit
+
+Development enviroment:
+Visual Studio 19
